@@ -7,5 +7,11 @@ public class main {
         solarSystemBasics.moon="2";
         solarSystemBasics.planets="2";
         solarSystemBasics.stars="10";
+        //planet1
+        Planet1 planet1=new Planet1();
+        planet1.color="green";
+        planet1.name="abracabd";
+        planet1.radius="564654km";
+        planet1.temp="hduısoa";
     }
 }
